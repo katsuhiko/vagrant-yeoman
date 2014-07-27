@@ -10,7 +10,7 @@ echo "Installing curl"
 apt-get install -y curl
 
 echo "Installing libfontconfig:phantomjs has a secret dependency"
-apt-get install libfontconfig
+apt-get install -y libfontconfig
 
 echo "Installing node and npm"
 #Instructions as per https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager (Vagrant runs in root/sudo mode already)
