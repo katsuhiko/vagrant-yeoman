@@ -21,3 +21,4 @@ Setting up Yeoman development environment under Vagrant. Basic steps:
 14. **exit** from the VM
 15. Run **vagrant suspend** to stop VM running
 
+
